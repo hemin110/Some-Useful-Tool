@@ -9,3 +9,6 @@ if  you want to delete something that you cannot delete it by common method,you 
 
 ### word 转 pdf
 if you have so many .doc files in a folder, and you want cahnge them to .pdf, you can try it.
+
+### mixcolor.py
+you can get a color which you like by move you mouse, and get the color's RGB code
